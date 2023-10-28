@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Dune",
+    "minPlayers": "2",
+    "maxPlayers": "6",
+    "minAge": "14",
+    "donatedBy": "Q",
+    "image": "https://cf.geekdo-images.com/2fgPg6Be--w97zoycObUgg__original/img/7PyNxWs85_OKGOm_jYVFvPwAViE=/0x0/filters:format(jpeg)/pic4815198.jpg",
+    "mechanics": ["Alliances", "Area Majority", "Auction/Bidding", "Bribery"],
+  },
+    {
+    "name": "Dune: Imperium",
+    "minPlayers": "1",
+    "maxPlayers": "4",
+    "minAge": "14",
+    "donatedBy": "Q",
+    "image": "https://cf.geekdo-images.com/PhjygpWSo-0labGrPBMyyg__original/img/mZzaBAEEJpMlHWWmC0R6Su0OibQ=/0x0/filters:format(jpeg)/pic5666597.jpg",
+    "mechanics": ["Deck, Bag, and Pool Building", "Open Drafting"],
+  },
+]
